@@ -38666,12 +38666,12 @@ r.toString
 A.aui(s,80/A.b9(r,null,t.w).w.a.b,B.Mg,B.aQ,B.Dn)}},
 L(a){var s,r,q,p,o,n=this,m=null,l=A.b9(a,m,t.w).w.a.a>900
 if(l)s=m
-else{s=A.hj(A.c([A.eb(A.IE("images/logo.webp",m,m,B.iu,50,m),50,m),B.O0,B.J3],t.p),B.P,B.G,B.A,0)
+else{s=A.hj(A.c([A.eb(A.IE("assets/images/logo.webp",m,m,B.iu,50,m),50,m),B.O0,B.J3],t.p),B.P,B.G,B.A,0)
 s=new A.vk(s,new A.cu(m,m,m,m,m,B.E,m,m,m),new A.Ri(m,m,1/0,56),m)}r=l?m:new A.Jl(new A.ah8(n,a),m)
 q=l?80:0
 p=n.e
 o=t.p
-o=A.c([new A.c5(new A.ae(0,q,0,0),new A.Lv(n.d,A.cJ(A.c([new A.Ie(p.h(0,"Home")),B.Oq,new A.JL(A.c(["images/logo_cisco.webp","images/logo_microsoft.webp","images/logo_hp.webp","images/logo_dell.webp","images/logo_hikvision.webp","images/logo_vmware.webp"],t.s),m),new A.MI(p.h(0,"Expertise")),new A.Lt(p.h(0,"Solutions")),new A.GS(m),new A.Fy(p.h(0,"Company")),new A.M5(p.h(0,"Team")),new A.Ah(p.h(0,"Testimonials")),new A.Gj(p.h(0,"Careers")),B.Bn,new A.GQ(p.h(0,"Contact")),B.Ea],o),B.P,B.G,B.A),m),m)],o)
+o=A.c([new A.c5(new A.ae(0,q,0,0),new A.Lv(n.d,A.cJ(A.c([new A.Ie(p.h(0,"Home")),B.Oq,new A.JL(A.c(["assets/images/logo_cisco.webp","assets/images/logo_microsoft.webp","assets/images/logo_hp.webp","assets/images/logo_dell.webp","assets/images/logo_hikvision.webp","assets/images/logo_vmware.webp"],t.s),m),new A.MI(p.h(0,"Expertise")),new A.Lt(p.h(0,"Solutions")),new A.GS(m),new A.Fy(p.h(0,"Company")),new A.M5(p.h(0,"Team")),new A.Ah(p.h(0,"Testimonials")),new A.Gj(p.h(0,"Careers")),B.Bn,new A.GQ(p.h(0,"Contact")),B.Ea],o),B.P,B.G,B.A),m),m)],o)
 if(l)o.push(A.JU(m,new A.He(n.gaaC(),m),m,m,0,0,0,m))
 if(n.f)o.push(A.JU(20,new A.HQ(B.EO,B.I,n.gaaD(),B.UR,m),m,m,m,20,m,m))
 return new A.zf(s,A.p3(B.d3,o,B.X,B.cT),r,m)}}
@@ -38686,7 +38686,7 @@ A.a6y(this.b).Tz(null)},
 $S:92}
 A.He.prototype={
 L(a){var s=this,r=null,q=A.c([new A.cI(0,B.by,A.ai(B.c.au(25.5),B.l.C()>>>16&255,B.l.C()>>>8&255,B.l.C()&255),B.tO,5)],t.R),p=t.p
-return A.cj(r,A.hj(A.c([A.hj(A.c([A.eb(A.IE("images/logo.webp",r,r,B.iu,70,r),70,r),B.kJ,B.J4],p),B.P,B.G,B.A,0),A.hj(A.c([new A.hv("Home",new A.Yv(s),r),new A.hv("Solutions",new A.Yw(s),r),new A.hv("Expertise",new A.Yx(s),r),new A.hv("Company",new A.Yy(s),r),new A.hv("Team",new A.Yz(s),r),new A.hv("Testimonials",new A.YA(s),r),new A.hv("Careers",new A.YB(s),r),new A.hv("Contact",new A.YC(s),r),B.O1,A.aBX(!1,B.T_,r,r,r,r,r,r,new A.YD(s),r,A.Hz(r,r,B.I,r,r,r,5,r,r,r,r,r,B.DJ,r,new A.bT(A.dA(5),B.n),r,r,r,r,r))],p),B.P,B.G,B.A,0)],p),B.P,B.hc,B.A,0),B.p,r,r,new A.cy(B.i,r,r,r,q,r,B.aj),r,r,r,B.DP,r,r,r)}}
+return A.cj(r,A.hj(A.c([A.hj(A.c([A.eb(A.IE("assets/images/logo.webp",r,r,B.iu,70,r),70,r),B.kJ,B.J4],p),B.P,B.G,B.A,0),A.hj(A.c([new A.hv("Home",new A.Yv(s),r),new A.hv("Solutions",new A.Yw(s),r),new A.hv("Expertise",new A.Yx(s),r),new A.hv("Company",new A.Yy(s),r),new A.hv("Team",new A.Yz(s),r),new A.hv("Testimonials",new A.YA(s),r),new A.hv("Careers",new A.YB(s),r),new A.hv("Contact",new A.YC(s),r),B.O1,A.aBX(!1,B.T_,r,r,r,r,r,r,new A.YD(s),r,A.Hz(r,r,B.I,r,r,r,5,r,r,r,r,r,B.DJ,r,new A.bT(A.dA(5),B.n),r,r,r,r,r))],p),B.P,B.G,B.A,0)],p),B.P,B.hc,B.A,0),B.p,r,r,new A.cy(B.i,r,r,r,q,r,B.aj),r,r,r,B.DP,r,r,r)}}
 A.Yv.prototype={
 $0(){return this.a.c.$1("Home")},
 $S:0}
@@ -38859,7 +38859,7 @@ L(a){var s=null,r=A.b9(a,s,t.w).w.a.a<800,q=$.mX(),p=r?20:100,o=r?B.aP:B.aO,n=A.
 m=A.c([A.lf(A.cJ(A.c([n,B.bI,A.bd("Local Expertise, Global Standards. We Engineer Resilience.",s,s,s,A.bs(s,s,B.E,s,s,s,s,s,s,s,s,r?32:48,s,s,B.R,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.eX,B.SZ,B.dG,A.aDF(A.h6(B.Ew,B.E,s,s),new A.c5(B.mH,A.bd("VIEW COMPANY PROFILE",s,s,s,A.bs(s,s,B.E,s,s,s,s,s,s,s,s,s,s,s,B.R,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.W7(),A.aDG(s,s,s,s,s,s,s,s,s,s,s,s,B.DL,s,new A.bT(A.dA(5),B.n),new A.aR(B.E,2,B.t,-1),s,s,s,s))],m),B.aa,B.G,B.A),2)],m)
 n=!r
 if(n)m.push(B.Of)
-if(n)m.push(A.lf(new A.fp(B.dT,s,s,A.cj(s,A.arH(A.dA(10),A.IE("images/about_us_image.webp",s,new A.W8(),B.iv,400,s)),B.p,s,s,s,s,s,B.DM,s,s,s,400),s),1))
+if(n)m.push(A.lf(new A.fp(B.dT,s,s,A.cj(s,A.arH(A.dA(10),A.IE("assets/images/about_us_image.webp",s,new A.W8(),B.iv,400,s)),B.p,s,s,s,s,s,B.DM,s,s,s,400),s),1))
 return A.cj(s,A.HO(m,B.aa,o,s,B.G,B.A,0,s,s,B.bL),B.p,q,s,s,s,s,s,new A.ae(p,80,p,80),s,s,s)}}
 A.W7.prototype={
 $0(){},
@@ -83436,7 +83436,7 @@ B.ip=new A.vm(0,"polite")
 B.zA=new A.FN(0,"polite")
 B.iq=new A.vm(1,"assertive")
 B.ls=new A.FN(1,"assertive")
-B.zB=new A.q1("images/hero_bg.webp",null,null)
+B.zB=new A.q1("assets/images/hero_bg.webp",null,null)
 B.h2=s([],t.s)
 B.k=new A.Ai(1,"downstream")
 B.f_=new A.eL(-1,-1,B.k,!1,-1,-1)
@@ -86717,7 +86717,7 @@ s($,"aPA","mX",()=>{var q=B.cm.h(0,100)
 q.toString
 return q})
 s($,"aPo","azX",()=>A.c([A.zE("High-availability servers, storage virtualization, and resilient network design for unbreakable business continuity, including Tier III compliance standards.",B.nj,"ICT Infrastructure & Data Centers"),A.zE("Cutting-edge Access Control, IP Surveillance (CCTV), Perimeter Protection, and Biometric systems for total asset security and compliance.",B.EF,"Integrated Physical Security"),A.zE("Customized Network Security, Endpoint Detection and Response (EDR), Security Information and Event Management (SIEM), and strategic consulting services.",B.EG,"Strategic Cyber Defence"),A.zE("Proactive 24/7 monitoring, maintenance, helpdesk support, and IT infrastructure management ensuring optimal performance and minimal downtime.",B.EH,"Managed IT Services Nairobi"),A.zE("Seamless transition to hybrid or public cloud environments (Azure/AWS) with a focus on cost efficiency, scalability, and security posture in the cloud.",B.Ev,"Cloud Migration & Optimization"),A.zE("Implementing robust backup strategies and comprehensive disaster recovery plans (DRP) to ensure data integrity and business continuity during any crisis.",B.ED,"Business Continuity & Disaster Recovery")],A.ak("y<rY>")))
-s($,"aPJ","aA4",()=>A.c([A.ac6("images/symon_komo.webp","Mr Symon Komo","+254723787031","Engineering is about building resilience, not just systems.","Technical Director"),A.ac6("images/stella_mwai.webp","Ms Stella Mwai","+254723921830","Flawless execution ensures client trust and lasting partnerships.","Operations Director"),A.ac6("images/edwin_bosire.webp","Mr Edwin Bosire","+254790992713","We analyze risks before they become business problems.","System Analyst"),A.ac6("images/polly_nkatha.webp","Ms Polly Nkatha","+254790663204","Finding the perfect, cost-effective solution is always the goal.","Sales Executive")],A.ak("y<te>")))
+s($,"aPJ","aA4",()=>A.c([A.ac6("assets/images/symon_komo.webp","Mr Symon Komo","+254723787031","Engineering is about building resilience, not just systems.","Technical Director"),A.ac6("assets/images/stella_mwai.webp","Ms Stella Mwai","+254723921830","Flawless execution ensures client trust and lasting partnerships.","Operations Director"),A.ac6("assets/images/edwin_bosire.webp","Mr Edwin Bosire","+254790992713","We analyze risks before they become business problems.","System Analyst"),A.ac6("assets/images/polly_nkatha.webp","Ms Polly Nkatha","+254790663204","Finding the perfect, cost-effective solution is always the goal.","Sales Executive")],A.ak("y<te>")))
 s($,"aPK","ar7",()=>A.c([A.Ag("East Africa Bank","Jane Doe","Diva Engineering delivered a seamless Data Center migration on schedule and under budget. Their expertise is unmatched in Nairobi.","CTO"),A.Ag("Regional Logistics PLC","Mark Omondi","The strategic security audit provided immediate, actionable insights that significantly strengthened our cyber posture. Highly recommend their consulting services.","Head of IT"),A.Ag("Kempinski Hotel Nairobi","Aisha Kariuki","From access control installation to system maintenance, Diva's professionalism and 24/7 support have kept our facility secure and operational.","Facilities Manager"),A.Ag("Trans-Continental Group","David Kimani","Their network solutions are robust and scalable. They took the time to understand our future growth, not just our current needs. True partners.","COO"),A.Ag("Kenya Energy Solutions","Fatuma Ali","We outsourced our entire IT management to Diva, and our systems have never been more stable. The peace of mind is invaluable.","Finance Director"),A.Ag("Luxury Retail Group","Paul Ndiritu","Excellent service on our CCTV and surveillance upgrade. The system integrates perfectly with our existing infrastructure.","Security Head")],A.ak("y<M7>")))
 s($,"aOr","azf",()=>A.apt(1,1,500))
 s($,"aNG","ayG",()=>A.aGh(new A.afn(),t.Pb))
